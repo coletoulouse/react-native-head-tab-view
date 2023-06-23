@@ -27,8 +27,8 @@
     "collapsible-header"
   ],
   "peerDependencies": {
-    "react-native-gesture-handler": "^1.6.1",
-    "react-native-reanimated": "^2.0.1"
+    "react-native-gesture-handler": "~2.5.0",
+    "react-native-reanimated": "~2.9.1"
   },
   "description": "Tab view component for React Native"
 }
